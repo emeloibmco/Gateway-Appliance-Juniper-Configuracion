@@ -179,7 +179,7 @@ El resultado esperado se muestra en la siguiente imagen, fíjese en los valores 
 
 ![](https://user-images.githubusercontent.com/60897075/102897442-ffc52e00-4435-11eb-9b3c-eea2bfc8ac99.png)
 
-En caso de que el estado se encuentre en DOWN siga los pasos de la [documentación](https://kb.juniper.net/InfoCenter/index?page=content&id=KB10100&actp=search) proporcionada por juniper.
+En caso de que el estado se encuentre en down siga los pasos de la [documentación](https://kb.juniper.net/InfoCenter/index?page=content&id=KB10100&actp=search) proporcionada por juniper.
 
 Si en algún momento desea revertir una configuración aplicada puede utilizar los siguientes comandos para ver el historial de los commits realizados, elegir a cúal debe regresar y finalmente con el útlimo comando podrá volver al commit deseado.
 
